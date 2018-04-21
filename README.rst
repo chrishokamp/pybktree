@@ -1,3 +1,4 @@
+"Forked" README, for original README and user guides, please refer to [a link](https://github.com/Jetsetter/pybktree)
 pybktree
 ========
 
