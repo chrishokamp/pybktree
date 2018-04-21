@@ -3,8 +3,11 @@
 
 This is a simpler implementation, which uses Levenshtein distance to compare actual strings. You just need to have "distance" library installed, and instantiate the BKTree class.
 Simple example:
+
 words = {"hat":1, "chat":1, "something totally different":1}
+
 tree = BKTree(words)
+
 print(tree.find("cat",1))
 
 For better understanding, please read the original repository.
